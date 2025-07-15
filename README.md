@@ -41,7 +41,7 @@ The following key performance indicators (KPIs) and metrics were calculated to p
     *Indicates how much revenue is generated for every dollar spent on ads.*
 
 * **Return On Investment (ROI)**:
-    $$ ROI = (Revenue from Ads - Spend)/Spend |times| 100 $$
+    $$ ROI = (Revenue from Ads - Spend)/ Spend |times| 100 $$
   
     *Measures the percentage of profit generated relative to the ad spend.*
 
