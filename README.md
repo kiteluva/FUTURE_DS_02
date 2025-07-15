@@ -26,19 +26,19 @@ The Power BI dashboard allows for in-depth analysis of ad campaign data across v
 The following key performance indicators (KPIs) and metrics were calculated to provide deeper insights:
 
 * **Click-Through Rate (CTR)**:
-    $$ \text{CTR} = \left(\frac{\text{Clicks}}{\text{Impressions}}\right) \times 100 $$
+  $$ CTR = Clicks/ Impressions |times| 100 $$
     *Calculated using DAX in Power BI to prevent division by zero.*
 
 * **Revenue from Ads**:
-    $$ \text{Revenue from Ads} = \text{Approved Conversions} \times \text{Average Revenue per Conversion} $$
+   $$ Revenue from Ads = Approved Conversions |times| Average Revenue per Conversion $$
     *For this analysis, an average revenue of $100 per approved conversion was assumed.*
 
 * **Return On Ad Spend (ROAS)**:
-    $$ \text{ROAS} = \frac{\text{Revenue from Ads}}{\text{Spend}} $$
+    $$ ROAS = Revenue from Ads/ Spend $$
     *Indicates how much revenue is generated for every dollar spent on ads.*
 
 * **Return On Investment (ROI)**:
-    $$ \text{ROI} = \left(\frac{\text{Revenue from Ads} - \text{Spend}}{\text{Spend}}\right) \times 100 $$
+    $$ ROI = (Revenue from Ads - Spend)/Spend |times| 100 $$
     *Measures the percentage of profit generated relative to the ad spend.*
 
 
