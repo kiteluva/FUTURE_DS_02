@@ -27,18 +27,22 @@ The following key performance indicators (KPIs) and metrics were calculated to p
 
 * **Click-Through Rate (CTR)**:
   $$ CTR = Clicks/ Impressions |times| 100 $$
+  
     *Calculated using DAX in Power BI to prevent division by zero.*
 
 * **Revenue from Ads**:
    $$ Revenue from Ads = Approved Conversions |times| Average Revenue per Conversion $$
+  
     *For this analysis, an average revenue of $100 per approved conversion was assumed.*
 
 * **Return On Ad Spend (ROAS)**:
     $$ ROAS = Revenue from Ads/ Spend $$
+  
     *Indicates how much revenue is generated for every dollar spent on ads.*
 
 * **Return On Investment (ROI)**:
     $$ ROI = (Revenue from Ads - Spend)/Spend |times| 100 $$
+  
     *Measures the percentage of profit generated relative to the ad spend.*
 
 
